@@ -1,75 +1,36 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<h2 align="center">Hello there! 👋 Welcome to my portfolio</h2>
 
-## Setup
+<h3 align="center" style="font-style: italic;">I am a passionate Full Stack Web developer from India</h3>
 
-Make sure to install the dependencies:
+<p>I'm passionate about solving technical problems and researching and developing new sites and technologies. I constantly challenge myself to improve, being proactive, responsible, and committed to finding the perfect solution to any problem. 😊😊</p>
 
-```bash
-# npm
-npm install
+## 🙋‍♂️ About Me
 
-# pnpm
-pnpm install
+<ul>
+  <li>🔭 <strong>Enthusiastic</strong> learner</li>
+  <li>🌱 Currently learning <strong>Angular</strong></li>
+  <li>👯 Looking to collaborate on <strong>Open Source Projects and Web Development</strong></li>
+  <li>👨‍💻 Visit <a href="https://alaluddin123.github.io/" target="_blank">My personal site</a></li>
+  <li>💬 Ask me about <strong>Web development and Coding projects</strong></li>
+  <li>📫 How to reach me:
+    <a href="mailto:alalu75666@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alalu75666@gmail.com&longCache=true">
+    </a>
+  </li>
+</ul>
 
-# yarn
-yarn install
+---
 
-# bun
-bun install
-```
+## Glimpses of Portfolio 🙈:
 
-## Development Server
 
-Start the development server on `http://localhost:3000`:
+---
 
-```bash
-# npm
-npm run dev
+## If you have any queries or want to connect, feel free to reach out to me:
 
-# pnpm
-pnpm run dev
+- Email: alalu75666@gmail.com
+- Phone Number: +91 6002565574
+- LinkedIn: <a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="_blank">https://www.linkedin.com/in/alal-uddin-066444206/</a>
 
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Thank you! 🤗🤗🤗🤗🤗
